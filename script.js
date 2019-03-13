@@ -97,7 +97,7 @@ function checkSlot2(){
 }
 function CheckSlot3(){
 		if(document.getElementById('first').src.match("images/alice.PNG")&& document.getElementById('second').src.match("images/alice.PNG")&& document.getElementById('third').src.match("images/alice2.PNG")&& document.getElementById('fourth').src.match("images/alice2.PNG")&& document.getElementById('fifth').src.match("images/alice3.PNG")&& document.getElementById('sixth').src.match("images/alice3.PNG")){
-		location.replace("https://kamyranwilliams.github.io/Alice-in-Wonderland/");
+		location.replace("https://godofwolves.github.io/Her-name-is-Alice/");
 	} else{
 	}
 }
